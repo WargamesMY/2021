@@ -1,6 +1,5 @@
 # Wargames.MY CTF 2021
 #### *Date*
-asd
 ```text
 START: 10 December 2021 00:00 GMT+8 | END: 11 December 2021 00:00 GMT+8
 ```
