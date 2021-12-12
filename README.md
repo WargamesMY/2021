@@ -41,14 +41,14 @@ We try hard to keep the competition as free and exciting as possible; however, w
 ![image](img/pro_graph.png)
 ![image](img/pro_top10.png)
 
-[Full Scoreboard](img/student_full.png)
+[Full Scoreboard](img/pro_all.png)
 
 #### *Student Category Final Scoreboard*
 
 ![image](img/student_graph.png)
 ![image](img/student_top10.png)
 
-[Full Scoreboard](img/student_full.png)
+[Full Scoreboard](img/student_all.png)
 
 #### *Sponsors*
 <p align="center">
