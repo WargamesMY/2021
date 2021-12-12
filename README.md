@@ -56,7 +56,7 @@ We try hard to keep the competition as free and exciting as possible; however, w
     <image src="logo/askpentest_w.png" height="180">
 </a>
 <a href="http://talenta.com.my/">
-    <image src="logo/talenta_w.png" height="180">
+    <image src="logo/talenta_b.png" height="180">
 </a>
 <a href="https://www.rehack.xyz/">
     <image src="logo/rehack_w.png" height="180">
