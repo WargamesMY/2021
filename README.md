@@ -1,10 +1,10 @@
 # Wargames.MY CTF 2021
-#### *Date*
+### Date
 ```text
 START: 10 December 2021 00:00 GMT+8 | END: 11 December 2021 00:00 GMT+8
 ```
 
-#### *Rules*
+### Rules
 
 ```text
 We try hard to keep the competition as free and exciting as possible; however, we do require players to adhere to a few simple rules:
@@ -24,7 +24,7 @@ We try hard to keep the competition as free and exciting as possible; however, w
         - All team members participating in the Student category are required to use their education email address when registering. If you don't have one, do contact us. Benda boleh bincang.
 ```
 
-#### *ELIGIBILITY*
+### ELIGIBILITY
 
 ```text
 - To be eligible for prizes, players must fit the following criteria:
@@ -33,24 +33,29 @@ We try hard to keep the competition as free and exciting as possible; however, w
 - Non-Malaysian are still welcomed to register and play; however, you won’t be eligible for the prizes
 ```
 
-#### *Full Write-up*
+### Write-up
+* [H0j3n](https://h0j3n.github.io/2021-12-12-Wargames-CTF-2021-Writeup/)
+* [liudashendiao](https://github.com/johnlsg/ctfs/blob/main/WargamesMY%202021.md)
+* [7e7](writeup/7e7.pdf)
+* [Bunga Raya](writeup/Bunga%20Raya.pdf)
+* [Dilettante](writeup/Dilettante.pdf)
+* [Silver Dawn](writeup/Silver%20Dawn.pdf)
 
-
-#### *Pro Category Final Scoreboard*
+### Pro Category Final Scoreboard
 
 ![image](img/pro_graph.png)
 ![image](img/pro_top10.png)
 
 [Full Scoreboard](img/pro_all.png)
 
-#### *Student Category Final Scoreboard*
+### Student Category Final Scoreboard
 
 ![image](img/student_graph.png)
 ![image](img/student_top10.png)
 
 [Full Scoreboard](img/student_all.png)
 
-#### *Sponsors*
+### Sponsors
 <p align="center">
 <a href="https://www.facebook.com/askpentest/">
     <image src="logo/askpentest_w.png" height="180">
