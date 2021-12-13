@@ -34,10 +34,13 @@ We try hard to keep the competition as free and exciting as possible; however, w
 ```
 
 ### Write-up
+#### Winner
+* [Bunga Raya](writeup/Bunga%20Raya.pdf)
 * [H0j3n](https://h0j3n.github.io/2021-12-12-Wargames-CTF-2021-Writeup/)
 * [liudashendiao](https://github.com/johnlsg/ctfs/blob/main/WargamesMY%202021.md)
+
+#### Participant
 * [7e7](writeup/7e7.pdf)
-* [Bunga Raya](writeup/Bunga%20Raya.pdf)
 * [Dilettante](writeup/Dilettante.pdf)
 * [Silver Dawn](writeup/Silver%20Dawn.pdf)
 
