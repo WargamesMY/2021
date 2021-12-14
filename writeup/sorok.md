@@ -1,4 +1,5 @@
 # Sorok
+Challenge source: https://github.com/WargamesMY/2021/blob/main/source/sorok.html
 
 This is some clarification and walkthrough for sorok challenge. This challenge was intended to show how we can hide javascript using unicode tricks in browser.
 The WASM in the javascript just to generate flag also if you manage to get the javascript code, you can find it was based on inwasmable from squareCTF. 
