@@ -44,6 +44,9 @@ We try hard to keep the competition as free and exciting as possible; however, w
 * [Dilettante](writeup/Dilettante.pdf)
 * [Silver Dawn](writeup/Silver%20Dawn.pdf)
 
+#### Author
+* [sorok](writeup/sorok.md)
+
 ### Pro Category Final Scoreboard
 
 ![image](img/pro_graph.png)
