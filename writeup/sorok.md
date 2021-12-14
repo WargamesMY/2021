@@ -14,6 +14,6 @@ but if you or change from `eval` to `console.log` you can view the full javascri
 From here you can can get the flag from googling or reversing the WASM.
 
 Ref: 
-https://certitude.consulting/blog/en/invisible-backdoor/
-http://aem1k.com/lions/
-https://squarectf.com/2019/inwasmble.html
+* https://certitude.consulting/blog/en/invisible-backdoor/
+* http://aem1k.com/lions/
+* https://squarectf.com/2019/inwasmble.html
