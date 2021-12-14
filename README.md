@@ -35,6 +35,7 @@ We try hard to keep the competition as free and exciting as possible; however, w
 
 ### Write-up
 #### Winner
+* [Trailblazers](writeup/Trailblazers.pdf)
 * [Bunga Raya](writeup/Bunga%20Raya.pdf)
 * [H0j3n](https://h0j3n.github.io/2021-12-12-Wargames-CTF-2021-Writeup/)
 * [liudashendiao](https://github.com/johnlsg/ctfs/blob/main/WargamesMY%202021.md)
